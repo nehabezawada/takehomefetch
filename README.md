@@ -14,7 +14,7 @@ A modern web application built with React, TypeScript, and Tailwind CSS that all
 
 ## 🌐 Live Demo
 
-Visit the live application: [Fetch Dogs App](https://fetch-dogs-neha.netlify.app)
+Visit the live application: [Fetch Dogs App](https://loquacious-dusk-0e6b46.netlify.app/login)
 
 ## 🛠️ Technologies
 

@@ -4,7 +4,7 @@
 
 ### Links
 - **GitHub Repository:** [https://github.com/nehabezawada/takehomefetch](https://github.com/nehabezawada/takehomefetch)
-- **Live Demo:** [https://fetch-dogs-neha.netlify.app](https://fetch-dogs-neha.netlify.app)
+- **Live Demo:** [https://loquacious-dusk-0e6b46.netlify.app/login](https://loquacious-dusk-0e6b46.netlify.app/login)
 
 ### Candidate Information
 - **Name:** Neha Chowdary
