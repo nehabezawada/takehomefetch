@@ -1,0 +1,32 @@
+
+
+  VITE v6.3.5  ready in 194 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+3:53:56 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Doe
+3:53:56 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Does the file exist?
+3:53:58 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Doe
+3:53:58 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Does the file exist? (x2)
+3:53:58 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Doe
+3:53:58 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Does the file exist? (x3)
+3:53:58 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Doe
+3:53:58 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Does the file exist? (x4)
+3:54:02 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Doe
+3:54:02 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Does the file exist? (x5)
+3:54:03 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Doe
+3:54:03 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Does the file exist? (x6)
+3:54:06 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Doe
+3:54:06 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Does the file exist? (x7)
+3:54:06 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Doe
+3:54:06 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Does the file exist? (x8)
+3:54:07 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Doe
+3:54:07 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Does the file exist? (x9)
+3:54:07 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Doe
+3:54:07 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Does the file exist? (x10)
+3:54:08 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Doe
+3:54:08 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Does the file exist? (x11)
+3:54:09 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Doe
+3:54:09 PM [vite] Pre-transform error: Failed to load url /main.tsx (resolved id: /main.tsx). Does the file exist? (x12)
+^C
