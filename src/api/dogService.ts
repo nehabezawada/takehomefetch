@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { Dog, Location, Match, SearchParams, SearchResponse, LocationSearchResponse } from '../types';
+import type { Dog, Location, Match, SearchParams, SearchResponse, LocationSearchResponse } from '../types';
 
 const API_BASE_URL = 'https://frontend-take-home-service.fetch.com';
 
