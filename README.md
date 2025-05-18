@@ -12,6 +12,10 @@ A modern web application built with React, TypeScript, and Tailwind CSS that all
 - Modern and responsive UI
 - Type-safe development with TypeScript
 
+## 🌐 Live Demo
+
+Visit the live application: [Fetch Dogs App](https://fetch-dogs-neha.netlify.app)
+
 ## 🛠️ Technologies
 
 - **Frontend Framework:** React 19
