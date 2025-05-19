@@ -95,9 +95,6 @@ VITE_API_BASE_URL=your_api_base_url
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License.
 
 ## 👤 Author
 
